@@ -4,8 +4,8 @@
 
 <h3> Hey there! </h3>
 
--  Computer science student at the Federal Institute of Alagoas.
--  I'm Jr software development!
+-  Computer science student at the Federal University of Alagoas.
+-  I'm a Jr software developer!
   
 -----
 
